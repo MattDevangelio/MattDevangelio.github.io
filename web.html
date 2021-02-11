@@ -1,1 +1,140 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!-->
+<html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
 
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+   <title>Website</title>
+   <meta name="description" content="">
+   <meta name="author" content="">
+
+   <!-- Mobile Specific Metas
+   ================================================== -->
+   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+   <!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+   <link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+
+   <!-- Script
+   ================================================== -->
+   <script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+   <link rel="shortcut icon" href="infinity.png">
+
+</head>
+
+<body style="">
+
+   <!-- Header
+   ================================================== -->
+   <section id="education">
+
+      <nav id="nav-wrap">
+
+         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+         <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+
+         <ul id="nav" class="nav">
+            <li class=""><a href="index.html">Home</a></li>
+            <li class=""><a href="index.html"></a></li>
+         </ul> <!-- end #nav -->
+
+      </nav> <!-- end #nav-wrap -->
+
+      <div class="row education">
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h1 class="h1-header">Title here</h1>
+		  <p class="info">Subtitle here</p>
+                  <p class="info">Info<span>•</span> <em class="date">February 2021</em></p>
+                  <p class="info">Info<span>•</span> <em class="date">February 2021</em></p>
+		  <p class="info">info<span>•</span> <em class="date">February 2021</em></p>
+		  <p class="info">Contact <span>•</span> <em class="date"> 
+			  <a class="link-in-text" href="https://google.it">author</a> </em> <span>•</span> <em class="date"> 
+			  <a class="link-in-text" href="https://google.it">author</a> </em></p>
+                  <p class="classic-paragraph">Paragraph here.
+                   
+                  </p>
+
+
+                  <h2 class="h2-header">The theme <span class="inner-header">here </span>.</h2>
+
+
+                  <p class="classic-paragraph">
+                     Other paragraph.
+                  </p>
+
+                  <h3 class="h3-header">Title Paragraph</h3>
+                  <img class="nameimage" src="images/image.png" alt="description">
+                  <p class="classic-paragraph">
+                     Paragraph.
+                  </p>
+
+                
+         
+
+               </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End -->
+
+   </section> <!-- Header End -->
+
+
+
+   <!-- footer
+   ================================================== -->
+   <footer>
+
+      <div class="row">
+
+         <div class="twelve columns">
+
+            <ul class="copyright">
+               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+            </ul>
+
+         </div>
+
+
+      </div>
+
+   </footer> <!-- Footer End-->
+
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script><script src="js/jquery-1.10.2.min.js"></script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+   <script src="js/jquery.flexslider.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <script src="js/magnific-popup.js"></script>
+   <script src="js/init.js"></script>
+
+
+
+
+
+
+<!-- 
+ -->
+</body></html>
