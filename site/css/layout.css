@@ -122,8 +122,8 @@ header .scrolldown a:hover { color: #11ABB0; }
 
 header .profile-pic {
    position: relative;
-   width: 140px;
-   height: 140px;
+   width: 240px;
+   height: 240px;
    border-radius: 100%;
 }
 
